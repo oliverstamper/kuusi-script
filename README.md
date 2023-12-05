@@ -15,8 +15,8 @@ License
 Copy the SSH key from github.com/kuusi-script. Clone the SSH locally.
 
 ## Usage
-Open the webpage in Google Chrome.
-
+Open the webpage from the below address.
+https://oliverstamper.github.io/kuusi-script/
 Click start quiz.
 ![image](https://github.com/oliverstamper/kuusi-script/1.png)
 
