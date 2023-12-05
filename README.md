@@ -18,7 +18,7 @@ Copy the SSH key from github.com/kuusi-script. Clone the SSH locally.
 Open the webpage from the below address.
 https://oliverstamper.github.io/kuusi-script/
 Click start quiz.
-![image]([https://github.com/oliverstamper/kuusi-script/1.png])
+[![image]([https://github.com/oliverstamper/kuusi-script/1.png])](https://github.com/oliverstamper/kuusi-script/blob/00dfff6f2ef6bfceed9cc8599d659672a33131c7/1.png)
 
 Answer the questions to the best of your abilities.
 ![image](https://github.com/oliverstamper/kuusi-script/2.png)
