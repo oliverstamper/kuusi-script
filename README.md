@@ -17,13 +17,14 @@ Copy the SSH key from github.com/kuusi-script. Clone the SSH locally.
 ## Usage
 Open the webpage in Google Chrome.
 
-Click start quiz
+Click start quiz.
+![image](https://github.com/oliverstamper/kuusi-script/1.png)
 
+Answer the questions to the best of your abilities.
+![image](https://github.com/oliverstamper/kuusi-script/2.png)
 
-Right click inspect, then left click on the "console" tab.
-![image](https://github.com/oliverstamper/nelja-js/assets/148012712/2444cbab-64bc-4c6f-b7bb-37aa71b1b450)
-
-
+When finished enter your intials to save your highscore!
+![image](https://github.com/oliverstamper/kuusi-script/3.png)
 ## Credits
 stackoverflow.com
 
